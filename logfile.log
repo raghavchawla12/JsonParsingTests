@@ -1,0 +1,4 @@
+2022-08-18 22:43:07,121 :DEBUG : test_01_validate_that_team_has_only_four_foreign_players :Got Json through Test Data Package using PyTest Fixtures in Test 01
+2022-08-18 22:43:07,122 :INFO : test_01_validate_that_team_has_only_four_foreign_players :Test Case Passed with correct Foreign Player Count i.e. 4
+2022-08-18 22:43:07,128 :DEBUG : test_02_validate_that_team_has_atleast_one_wicket_keeper :Got Json through Test Data Package using PyTest Fixtures in Test 02
+2022-08-18 22:43:07,130 :INFO : test_02_validate_that_team_has_atleast_one_wicket_keeper :Test Case Passed, There is atleast one wicket keeper present. Total Wicketkeepers are 1
